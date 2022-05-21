@@ -1,0 +1,120 @@
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+Z:\ALL\Education\#Академия ШАГ\Домашние задания\9.Сетевое программирование\!2022.03.02 и 2022.03.06 [2022.02.18 и 2022.02.21] HttpClient запросы\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+H:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+H:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+H:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csprojAssemblyReference.cache
+H:\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+H:\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+H:\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+H:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+d:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+d:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+d:\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+d:\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+d:\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+d:\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+d:\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csprojAssemblyReference.cache
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+D:\Kirill_T\#Курсовой.NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.AssemblyReference.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\App.g.cs
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes_MarkupCompile.lref
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe.config
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.exe
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\bin\Debug\CryptoNodes.pdb
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\MainWindow.baml
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.g.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.Properties.Resources.resources
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.GenerateResource.cache
+z:\ALL\Education\#Академия ШАГ\Домашние задания\Курсовой проект .NET\2022.05.13\!CryptoNodes\CryptoNodes\obj\Debug\CryptoNodes.csproj.CoreCompileInputs.cache
